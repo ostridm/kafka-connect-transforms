@@ -1,5 +1,7 @@
 Kafka Connect SMT to perform regex transform on field content
 
+[![CircleCI](https://circleci.com/gh/ostridm/kafka-connect-transforms/tree/main.svg?style=svg)](https://circleci.com/gh/ostridm/kafka-connect-transforms/tree/main)
+
 This SMT supports regex transform of a  Key or Value field
 
 Properties:
